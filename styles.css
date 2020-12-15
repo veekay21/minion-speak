@@ -1,0 +1,19 @@
+body {
+    background-color: yellow;   
+}
+
+#txtInput {
+    height: 10vh;
+    width: 80%;
+    margin: 1rem;
+    padding: 1rem;
+    border: 1px solid black;
+} 
+
+#divOutput {
+    height: 10vh;
+    width: 80%;
+    margin: 1rem;
+    padding: 1rem;
+    border: 1px solid black;
+}
