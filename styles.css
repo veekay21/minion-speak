@@ -1,6 +1,5 @@
 body {
     background-color: yellow;   
-    text-align: center;
 }
 
 #txtInput {
@@ -12,6 +11,7 @@ body {
 } 
 
 #divOutput {
+    background-color:white;
     height: 10vh;
     width: 80%;
     margin: 1rem;
